@@ -1,4 +1,4 @@
-<img src="https://github.com/anirudhahavaldar/anirudhahavaldar/blob/1390d343e3ea2448325c143a0e6ad4f281e7e697/Anirudha_Github_Header_Gif.mp4" >
+<img src="https://github.com/anirudhahavaldar/anirudhahavaldar/blob/e7e9bc05e75d06b4380e1c006efc013342909f96/Anirudha_Github_Header_Gif.gif" >
 
 # Hey Awesome Folks out there 👋
 
