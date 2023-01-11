@@ -30,9 +30,8 @@ I'm Anirudha Havaldar
 
 ## Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anirudhahavaldar" align="left"/>
+  <img src="https://streak-stats.demolab.com/?user=anirudhahavaldar" />
 </div>
-
 
 ## 📈 Stats 
 <p>
