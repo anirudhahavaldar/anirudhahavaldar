@@ -29,9 +29,7 @@ I'm Anirudha Havaldar
  <br><br>
 
 ## Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anirudhahavaldar" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## 📈 Stats 
 <p>
