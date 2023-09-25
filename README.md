@@ -6,7 +6,7 @@ I'm Anirudha Havaldar
 <ul>
   <li> I'm currently working as Frontend Developer at startup,<bold> Nuvepro 😎</bold></li>
   <li>I ❤️ Web Development and currently focus on JS</li>
-  <li>I started with Open Source🌱 </li>
+  <li>Open Source🌱 </li>
   <li>I teach Core Java and Frontend Developement. You can DM me😉</li>
 </ul>
 
